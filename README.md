@@ -1,10 +1,6 @@
 # The `streamlit hello` multipage demo app, on Railway!
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/nj-Wms?referralCode=ySCnWl)
-
-This project highlights Streamlit's new multipage app functionality. Now deployable directly to Railway!
-
-![In-use Animation](https://github.com/streamlit/hello/blob/main/mpa-hero.gif?raw=true "In-use Animation")
+https://streamlit-app-production-2717.up.railway.app/Mapping_Demo
 
 ## How to run this project locally
 
